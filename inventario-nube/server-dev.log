@@ -1,0 +1,5 @@
+
+> inventario-nube-server@1.0.0 dev
+> node src/index.js
+
+API en http://localhost:5174
