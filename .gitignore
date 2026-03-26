@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+*.log
+.env
+.env.*
+inventario-nube/node_modules/
+inventario-nube/dist/
+inventario-nube/coverage/
+inventario-nube/*.log
+inventario-nube/server/node_modules/
+inventario-nube/server/coverage/
+inventario-nube/server/*.log
